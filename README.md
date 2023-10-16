@@ -1,2 +1,3 @@
 # template_site
-a template website from w3schools
+A template website from w3schools.
+Check it out at https://github.com/jamangi/template_site.git
